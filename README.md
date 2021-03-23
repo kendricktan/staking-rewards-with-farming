@@ -1,2 +1,3 @@
-# staking-rewards-with-mining
+# staking-rewards-with-farming
+
 Make SNX's staking rewards more capital efficient
